@@ -10,11 +10,11 @@ class ChannelConfig:
 class ProxyConfig:
     def __init__(self):
         self.TELEGRAM_CHANNELS = [
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/v2rayngvpn"),
-            ChannelConfig("https://t.me/s/V2ray_Alpha"),
-            ChannelConfig("https://t.me/s/SvnV2ray"),
-            ChannelConfig("https://t.me/s/RadixVPN")
+            ChannelConfig("https://t.me/s/ShadowProxy66"),
+            # ChannelConfig("https://t.me/s/v2rayngvpn"),
+            # ChannelConfig("https://t.me/s/V2ray_Alpha"),
+            # ChannelConfig("https://t.me/s/SvnV2ray"),
+            # ChannelConfig("https://t.me/s/RadixVPN")
         ]
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
