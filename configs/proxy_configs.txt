@@ -38,28 +38,30 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=%2F&security
 
 vless://bba5fd9c-a36f-4bab-8af3-8ee50d876494@85.133.221.5:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon20
 
-vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhdmVpcm9yLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.115:8443?path=%2F&security=tls&encryption=none&type=ws#Anon21
+vmess://eyJhZGQiOiI0Ni4yOS4zNC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2EwYzk5MzctNThhNi00NGVhLTkxMTEtYTZhYmFjMjY3ZDBmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTk5NTYiLCJwcyI6IkBTaGFkb3dQcm94eTY2IPCfh67wn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==MCI#Anon21
 
-ss://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=83L79jOdPv.GiGa1.OrG&fp=chrome&type=ws#Anon22
+vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhdmVpcm9yLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.115:8443?path=%2F&security=tls&encryption=none&type=ws#Anon22
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443?path=%2F&security=tls&encryption=none&type=ws#Anon23
+ss://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=83L79jOdPv.GiGa1.OrG&fp=chrome&type=ws#Anon23
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=%2F&security=tls&encryption=none&type=ws#Anon24
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443?path=%2F&security=tls&encryption=none&type=ws#Anon24
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#Anon25
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=%2F&security=tls&encryption=none&type=ws#Anon25
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?path=%2F&security=tls&encryption=none&type=ws#Anon26
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#Anon26
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=%2F&security=tls&encryption=none&type=ws#Anon27
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?path=%2F&security=tls&encryption=none&type=ws#Anon27
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:443?path=%2F&security=tls&encryption=none&type=ws#Anon28
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=%2F&security=tls&encryption=none&type=ws#Anon28
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.86:8443?path=%2F&security=tls&encryption=none&type=ws#Anon29
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:443?path=%2F&security=tls&encryption=none&type=ws#Anon29
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:8443?path=%2F&security=tls&encryption=none&type=ws#Anon30
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.86:8443?path=%2F&security=tls&encryption=none&type=ws#Anon30
 
-ss://ea58dac7-6ca9-448a-aeff-af1ac5070acf@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#Anon31
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:8443?path=%2F&security=tls&encryption=none&type=ws#Anon31
 
-trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=%2F%3Fed%3D2560&security=tls&host=t.hongkong6.qzz.io&fp=random&type=ws&sni=t.hongkong6.qzz.io#Anon32
+ss://ea58dac7-6ca9-448a-aeff-af1ac5070acf@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#Anon32
 
-trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#Anon33
+trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=%2F%3Fed%3D2560&security=tls&host=t.hongkong6.qzz.io&fp=random&type=ws&sni=t.hongkong6.qzz.io#Anon33
+
+trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#Anon34
