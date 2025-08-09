@@ -1,49 +1,55 @@
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Anon1
+wireguard://%2BHqSv0qdDVkfJT6TQu1hfpAxFGjkj21U1eu%2BN0Ph7UI%3D@188.114.99.100:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=30%2C238%2C4&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon1
 
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#Anon2
+wireguard://2wtjuGHGk%2BSuRvfGJgo75U0sal7Xza6ZUvEb7kouvAU%3D@162.159.192.58:890?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A80c0%3Ae3e2%3A8b%3A9929%3Aa304%2F128&reserved=117%2C201%2C47&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1420#Anon2
 
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#Anon3
+wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@162.159.195.252:3476?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon3
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F%40ShadowProxy66&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon4
+wireguard://9clSPQ5BJjjZmTTKRZgR6%2BNlwn7KMjlgqYW0X9QxLtw%3D@188.114.98.224:908?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8b88%3A6174%3A2415%3Ab323%3A31eb%2F128&reserved=67%2C8%2C68&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1420#Anon4
 
-vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#Anon5
+wireguard://ABG0VH79GxNtSt8CLNFe8KOEMk0irQ90ZPFTi2kkE28%3D@162.159.192.143:1843?wnoise=quic&address=172.16.0.2%2F32&reserved=177%2C134%2C162&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon5
 
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:443?path=%2F&security=tls&encryption=none&type=ws#Anon6
+wireguard://QFQ39mcCq8%2B%2FvnUAF9w6UL0iH9%2FtrN3BwyTlZNA8VEQ%3D@188.114.99.174:943?wnoise=quic&address=172.16.0.2%2F32&reserved=170%2C41%2C210&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon6
 
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.115:8443?path=%2F&security=tls&encryption=none&type=ws#Anon7
+wireguard://RFMTGta1amPYSCbFVYCkSigFgGgBxyMZzWvuVvf34og%3D@188.114.98.224:500?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8ebb%3A71ba%3A7a34%3Ada4e%3A312e%2F128&reserved=84%2C69%2C12&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1420#Anon7
 
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.217:2096?path=%2F&security=tls&encryption=none&type=ws#Anon8
+wireguard://cjBniRZM2%2BiuiI0YpgkQJ%2FR27HjkPQ4I5st5ShO6Eu8%3D@8.39.125.147:854?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8e33%3A8045%3A4773%3A3748%3A5003%2F128&reserved=169%2C216%2C127&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1420#Anon8
 
-vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#Anon9
+wireguard://iNpNZiBukwh%2FVnRA97fL5VookAnaGknlhTr3FLY0anc%3D@162.159.195.51:4198?wnoise=quic&address=172.16.0.2%2F32&reserved=116%2C56%2C46&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon9
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#Anon10
+wireguard://qFPf70wY1w8m7u3S443mCPSTtbKflTPfheECiFx9H0E%3D@188.114.98.37:894?wnoise=quic&address=172.16.0.2%2F32&reserved=225%2C120%2C131&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon10
 
-vmess://eyJhZGQiOiI0Ni4xMDEuMTUyLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUzNTAxY2I2LWFmOWEtNDRhYi1iYjRiLTQ4YWE1ZmNhMmFlOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9vmess://eyJhZGQiOiI1MS42OC4xOTEuMjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vmess://eyJhZGQiOiIxNTQuNjIuMTg1LjIxNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGVkMTY3My04ZjllLTQ4NWItOTk1Ni0xNDc3NjhmY2U4NTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=TCI#Anon11
+vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=%2Flmhdjfws&security=tls&encryption=none&type=ws#Anon11
 
-vmess://eyJhZGQiOiI0Ni4yOS4zNC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2EwYzk5MzctNThhNi00NGVhLTkxMTEtYTZhYmFjMjY3ZDBmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTk5NTYiLCJwcyI6IkBTaGFkb3dQcm94eTY2IPCfh67wn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==MCI#Anon12
+vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=03Pz2UaTr4.GiGa1.OrG&fp=chrome&type=ws#Anon12
 
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F%2FShadowProxy66&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon13
+vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=&encryption=none&headerType=none&type=tcp#Anon13
 
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon14
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon14
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=%2F&security=tls&encryption=none&type=ws#Anon15
+vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=%2Frsrjowws&security=tls&encryption=none&type=ws#Anon15
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?path=%2F&security=tls&encryption=none&type=ws#Anon16
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3DJoin---ShadowProxy66&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon16
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443?path=%2F&security=tls&encryption=none&type=ws#Anon17
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?path=%2FQaaLdIiGgWNoIxOF%3Fed&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Anon17
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=%2F&security=tls&encryption=none&type=ws#Anon18
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.241:2096?security=tls&encryption=none&type=ws#Anon18
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:8443?path=%2F&security=tls&encryption=none&type=ws#Anon19
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=%2Fhfwsxtws&security=tls&encryption=none&host=TELEGRAM--%40ShadowProxy66&type=ws#Anon19
 
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F&security=tls&encryption=none&host=9Jj23Cd71F.kAgHaZ.oRg&type=ws#Anon20
+vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#Anon20
 
-ss://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.52:2096?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http%2F1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=firefox&type=ws&sni=verina.ccantarella.dns-dynamic.net#Anon21
+vmess://eyJhZGQiOiI0Ni4xMDEuMTUyLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUzNTAxY2I2LWFmOWEtNDRhYi1iYjRiLTQ4YWE1ZmNhMmFlOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9vmess://eyJhZGQiOiI1MS42OC4xOTEuMjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vmess://eyJhZGQiOiIxNTQuNjIuMTg1LjIxNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGVkMTY3My04ZjllLTQ4NWItOTk1Ni0xNDc3NjhmY2U4NTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=TCI#Anon21
 
-ss://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.5:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#Anon22
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon22
 
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Anon23
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon23
 
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Anon24
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@104.19.144.33:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=O5gThU8zJm.MeTaL1.oRg&fp=chrome&type=ws#Anon24
 
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Anon25
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:2096?path=%2F&security=tls&encryption=none&type=ws#Anon25
+
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.103:2096?path=%2F&security=tls&encryption=none&type=ws#Anon26
+
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=%2F&security=tls&encryption=none&type=ws#Anon27
+
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Anon28
