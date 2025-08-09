@@ -40,16 +40,20 @@ vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?security=&encry
 
 vmess://eyJhZGQiOiI0Ni4xMDEuMTUyLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUzNTAxY2I2LWFmOWEtNDRhYi1iYjRiLTQ4YWE1ZmNhMmFlOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9vmess://eyJhZGQiOiI1MS42OC4xOTEuMjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vmess://eyJhZGQiOiIxNTQuNjIuMTg1LjIxNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGVkMTY3My04ZjllLTQ4NWItOTk1Ni0xNDc3NjhmY2U4NTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=TCI#Anon21
 
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon22
+vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5LmNvZGVmeWluYy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?path=%2Fvlessws&security=tls&encryption=none&host=v2ray.codefyinc.com&type=ws&sni=v2ray.codefyinc.com#Anon22
 
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon23
+vmess://eyJhZGQiOiJ2YWxsLmNvZGVmeWluYy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhbGwuY29kZWZ5aW5jLmNvbSIsImlkIjoiNjA2ZWNlMTctNzI3OS00YTQzLWI4NzktZjg1MDIxMDNkZThmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2YWxsLmNvZGVmeWluYy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==vmess://eyJhZGQiOiJ2YWxsLmNvZGVmeWluYy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhbGwuY29kZWZ5aW5jLmNvbSIsImlkIjoiNjA2ZWNlMTctNzI3OS00YTQzLWI4NzktZjg1MDIxMDNkZThmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoidmFsbC5jb2RlZnlpbmMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=vless://f300338b-c2e3-46dd-9d3f-d54c010dc989@vall.codefyinc.com:8443?path=%2Fvlessws&security=tls&encryption=none&host=vall.codefyinc.com&type=ws&sni=vall.codefyinc.com#Anon23
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@104.19.144.33:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=O5gThU8zJm.MeTaL1.oRg&fp=chrome&type=ws#Anon24
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon24
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:2096?path=%2F&security=tls&encryption=none&type=ws#Anon25
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Anon25
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.103:2096?path=%2F&security=tls&encryption=none&type=ws#Anon26
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@104.19.144.33:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=O5gThU8zJm.MeTaL1.oRg&fp=chrome&type=ws#Anon26
 
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=%2F&security=tls&encryption=none&type=ws#Anon27
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:2096?path=%2F&security=tls&encryption=none&type=ws#Anon27
 
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Anon28
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.103:2096?path=%2F&security=tls&encryption=none&type=ws#Anon28
+
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=%2F&security=tls&encryption=none&type=ws#Anon29
+
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Anon30
