@@ -18,42 +18,22 @@ vless://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081?security=reality&e
 
 vless://fa886719-16fa-4b10-88c5-3c00a6f5a5f1@195.133.8.126:8081?security=reality&encryption=none&pbk=oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=220463#Anon10
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5TE0xcGNuaFVlSFp4cnNFUU1rcGxJ@178.208.91.118:19805#Anon11
+ss://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon11
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovWVZXT0YrVGlJcmZkUFVyenJ3U2RGazVLRFBTdDJPR3hiZjR2UnlBOElZPQ%3D%3D@167.71.195.230:56399#Anon12
+ss://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.237.215:443?mode=auto&path=%2Fds&security=&encryption=none&type=xhttp#Anon12
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUFJpMTF6b2lsM3hEU1lJTkhtbHh0@81.19.141.45:443#Anon13
+ss://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.3.139:443?mode=auto&path=%2Fds&security=&encryption=none&type=xhttp#Anon13
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk%3D@77.83.245.171:443#Anon14
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon14
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#Anon15
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon15
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@18.162.146.85:8316#Anon16
+ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Anon16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08%3D@185.246.153.12:31348#Anon17
+ss://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Anon17
 
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#Anon18
+ss://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.216.235:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon18
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#Anon19
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=%2F&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#Anon19
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#Anon20
-
-trojan://Aimer@104.19.60.99:2087?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon21
-
-trojan://Aimer@108.165.152.66:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon22
-
-trojan://Aimer@160.79.105.160:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon23
-
-trojan://Aimer@167.68.4.7:2053?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon24
-
-trojan://Aimer@172.64.34.52:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon25
-
-trojan://Aimer@173.245.59.109:2087?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon26
-
-trojan://Aimer@188.164.159.22:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon27
-
-trojan://Aimer@192.200.160.35:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon28
-
-trojan://Aimer@199.34.228.178:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon29
-
-trojan://Aimer@5.182.84.52:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Anon30
+ss://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon20
