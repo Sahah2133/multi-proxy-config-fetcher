@@ -18,22 +18,24 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.10.251:443?mode=stream-one&p
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon10
 
-ss://13830dec-2abb-4efb-9509-d07805fc83ed@85.133.221.5:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon11
+vmess://eyJhZGQiOiI2NC4yMjcuNDUuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWUwMmJjMDEtNDJhNy00NjA5LWIyMGEtNGQ5M2ZlZWE2NWM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==MCI#Anon11
 
-ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=%2F&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Anon12
+ss://13830dec-2abb-4efb-9509-d07805fc83ed@85.133.221.5:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon12
 
-ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Anon13
+ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=%2F&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Anon13
 
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VhHhUaKx14.bLuEvIa.oRg&fp=chrome&type=ws&sni=VhHhUaKx14.bLuEvIa.oRg#Anon14
+ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Anon14
 
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe14.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe14.cItYkAlA24.InFo#Anon15
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VhHhUaKx14.bLuEvIa.oRg&fp=chrome&type=ws&sni=VhHhUaKx14.bLuEvIa.oRg#Anon15
 
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=IiCxNvVt13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=IiCxNvVt13.gHaNbArSaNaLlAh.oRg#Anon16
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe14.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe14.cItYkAlA24.InFo#Anon16
 
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VpOgCvWb13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=VpOgCvWb13.gHaNbArSaNaLlAh.oRg#Anon17
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=IiCxNvVt13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=IiCxNvVt13.gHaNbArSaNaLlAh.oRg#Anon17
 
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe13.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe13.cItYkAlA24.InFo#Anon18
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VpOgCvWb13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=VpOgCvWb13.gHaNbArSaNaLlAh.oRg#Anon18
 
-ss://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNeTVIpaP-clOUD205.NETKH3.SIte&type=ws#Anon19
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe13.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe13.cItYkAlA24.InFo#Anon19
 
-ss://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon20
+ss://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNeTVIpaP-clOUD205.NETKH3.SIte&type=ws#Anon20
+
+ss://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon21
