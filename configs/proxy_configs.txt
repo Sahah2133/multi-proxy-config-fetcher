@@ -2,38 +2,38 @@ vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=%2Flinkws&sec
 
 vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud76.netkh3.site&type=ws#Anon2
 
-vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-us83.maxnetservices.online&type=ws#Anon3
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#Anon3
 
-vless://4e125438-1a39-440e-95fc-36b9dec03e5f@104.21.43.168:443?path=%2Frandom&security=tls&alpn=http%2F1.1&encryption=none&host=adderall.adaspoloandco.com&fp=firefox&type=ws&sni=adderall.adaspoloandco.com#Anon4
+vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-us83.maxnetservices.online&type=ws#Anon4
 
-vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=randomized&type=xhttp&sni=uk-09.allhubb.info#Anon5
+vless://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-de145.maxnetservices.online&type=ws#Anon5
 
-vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=%2FShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#Anon6
+vless://9757c019-e611-422c-9f81-b031a4521651@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-us249.maxnetservices.online&type=ws#Anon6
 
-vless://9757c019-e611-422c-9f81-b031a4521651@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-us249.maxnetservices.online&type=ws#Anon7
+vless://c997eaff-4bab-4fff-92e5-8e14dc248dc4@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvip-clgervip146.maxnetcloudservice.com&type=ws#Anon7
 
-vless://c997eaff-4bab-4fff-92e5-8e14dc248dc4@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvip-clgervip146.maxnetcloudservice.com&type=ws#Anon8
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.27:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon8
 
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.27:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon9
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.10.251:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon9
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon10
 
 ss://13830dec-2abb-4efb-9509-d07805fc83ed@85.133.221.5:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon11
 
-ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#Anon12
+ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=%2F&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Anon12
 
-ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=%2F&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Anon13
+ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Anon13
 
-ss://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Anon14
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VhHhUaKx14.bLuEvIa.oRg&fp=chrome&type=ws&sni=VhHhUaKx14.bLuEvIa.oRg#Anon14
 
-ss://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-de145.maxnetservices.online&type=ws#Anon15
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe14.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe14.cItYkAlA24.InFo#Anon15
 
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VhHhUaKx14.bLuEvIa.oRg&fp=chrome&type=ws&sni=VhHhUaKx14.bLuEvIa.oRg#Anon16
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=IiCxNvVt13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=IiCxNvVt13.gHaNbArSaNaLlAh.oRg#Anon16
 
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=IiCxNvVt13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=IiCxNvVt13.gHaNbArSaNaLlAh.oRg#Anon17
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VpOgCvWb13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=VpOgCvWb13.gHaNbArSaNaLlAh.oRg#Anon17
 
-ss://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNeTVIpaP-clOUD205.NETKH3.SIte&type=ws#Anon18
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe13.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe13.cItYkAlA24.InFo#Anon18
 
-ss://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon19
+ss://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNeTVIpaP-clOUD205.NETKH3.SIte&type=ws#Anon19
 
-ss://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.10.251:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon20
+ss://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon20
