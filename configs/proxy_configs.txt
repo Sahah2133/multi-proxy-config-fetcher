@@ -1,41 +1,41 @@
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#Anon1
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon1
 
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?path=%2F&security=tls&encryption=none&type=ws#Anon2
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443?path=%2F&security=tls&encryption=none&type=ws#Anon2
 
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.25:443?path=%2F&security=tls&encryption=none&type=ws#Anon3
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#Anon3
 
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?path=%2F&security=tls&encryption=none&type=ws#Anon4
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?path=%2F&security=tls&encryption=none&type=ws#Anon4
 
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.31:443?path=%2F&security=tls&encryption=none&type=ws#Anon5
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.25:443?path=%2F&security=tls&encryption=none&type=ws#Anon5
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VhHhUaKx14.bLuEvIa.oRg&fp=chrome&type=ws&sni=VhHhUaKx14.bLuEvIa.oRg#Anon6
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=%2F&security=tls&encryption=none&type=ws#Anon6
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe14.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe14.cItYkAlA24.InFo#Anon7
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?path=%2F&security=tls&encryption=none&type=ws#Anon7
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=IiCxNvVt13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=IiCxNvVt13.gHaNbArSaNaLlAh.oRg#Anon8
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.31:443?path=%2F&security=tls&encryption=none&type=ws#Anon8
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VpOgCvWb13.gHaNbArSaNaLlAh.oRg&fp=chrome&type=ws&sni=VpOgCvWb13.gHaNbArSaNaLlAh.oRg#Anon9
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon9
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=ZbMnPuIe13.cItYkAlA24.InFo&fp=chrome&type=ws&sni=ZbMnPuIe13.cItYkAlA24.InFo#Anon10
+vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#Anon10
 
 vmess://eyJhZGQiOiI2NC4yMjcuNDUuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWUwMmJjMDEtNDJhNy00NjA5LWIyMGEtNGQ5M2ZlZWE2NWM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==MCI#Anon11
 
-ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon12
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon12
 
-ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon13
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon13
 
-ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon14
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Anon14
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443?path=%2F&security=tls&encryption=none&type=ws#Anon15
+ss://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon15
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=%2F&security=tls&encryption=none&type=ws#Anon16
+ss://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon16
 
-ss://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon17
+ss://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon17
 
-ss://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon18
+ss://f6f442e3-69d1-4a83-bb78-241152eed859@135.148.232.166:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon18
 
-ss://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon19
+ss://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon19
 
-ss://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Anon20
+ss://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.77.156:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon20
 
-ss://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#Anon21
+ss://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Anon21
