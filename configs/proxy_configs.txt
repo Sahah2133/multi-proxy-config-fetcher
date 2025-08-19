@@ -18,24 +18,26 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encrypt
 
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon10
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4%3D@195.123.213.12:31348#Anon11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI%3D@92.38.171.215:31348#Anon11
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI%3D@92.38.171.215:31348#Anon12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Anon12
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#Anon13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk%3D@77.83.245.171:443#Anon13
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#Anon14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Anon14
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Anon15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#Anon15
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.250:2222#Anon16
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#Anon16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNVA0WlRMbENZWmF5Nnd1R1h4SGlt@81.19.141.45:443#Anon17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#Anon17
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#Anon18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.250:2222#Anon18
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#Anon19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNVA0WlRMbENZWmF5Nnd1R1h4SGlt@81.19.141.45:443#Anon19
 
-trojan://%3FM%7C%24pIEDnf8N@172.66.47.197:443?path=%2Ftr5yHAfAceu4MQZYYW%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Anon20
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#Anon20
 
-trojan://%3FM%7C%24pIEDnf8N@www.speedtest.net:443?path=%2FtrfTOD5pZ7bIEs3KNa%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Anon21
+trojan://%3FM%7C%24pIEDnf8N@172.66.47.197:443?path=%2Ftr5yHAfAceu4MQZYYW%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Anon21
+
+trojan://%3FM%7C%24pIEDnf8N@www.speedtest.net:443?path=%2FtrfTOD5pZ7bIEs3KNa%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Anon22
