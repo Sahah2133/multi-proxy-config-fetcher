@@ -18,25 +18,25 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encrypt
 
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon10
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI%3D@92.38.171.215:31348#Anon11
+ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#Anon11
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Anon12
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=%2F&security=tls&encryption=none&type=ws#Anon12
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk%3D@77.83.245.171:443#Anon13
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=%2F&security=tls&encryption=none&type=ws#Anon13
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Anon14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Anon14
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#Anon15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk%3D@77.83.245.171:443#Anon15
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#Anon16
+ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#Anon16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#Anon17
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=&encryption=none&type=grpc#Anon17
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.250:2222#Anon18
+ss://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Anon18
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNVA0WlRMbENZWmF5Nnd1R1h4SGlt@81.19.141.45:443#Anon19
+ss://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss52355.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#Anon19
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#Anon20
+ss://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss80361.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#Anon20
 
 trojan://%3FM%7C%24pIEDnf8N@172.66.47.197:443?path=%2Ftr5yHAfAceu4MQZYYW%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Anon21
 
