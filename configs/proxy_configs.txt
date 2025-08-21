@@ -18,14 +18,22 @@ vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&sec
 
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=dl1-ca-cdn.easy-upload.org&type=ws&sni=dl1-ca-cdn.easy-upload.org#Anon10
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-au-cdn.easy-upload.org&type=ws&sni=dl1-au-cdn.easy-upload.org#Anon11
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-ca2-cdn.upload-center.org&fp=firefox&type=ws#Anon11
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl-fr-cdn.easy-upload.org#Anon12
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-de2-cdn.upload-center.org&fp=firefox&type=ws#Anon12
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-sg-cdn.easy-upload.org&type=ws&sni=dl1-sg-cdn.easy-upload.org#Anon13
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-fr2-cdn.upload-center.org&fp=firefox&type=ws#Anon13
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws#Anon14
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-tr2-cdn.upload-center.org&fp=firefox&type=ws#Anon14
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#Anon15
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-au-cdn.easy-upload.org&type=ws&sni=dl1-au-cdn.easy-upload.org#Anon15
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:443?path=%2F&security=tls&encryption=none&type=ws&sni=dl1-ca-cdn.easy-upload.org#Anon16
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl-fr-cdn.easy-upload.org#Anon16
+
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-sg-cdn.easy-upload.org&type=ws&sni=dl1-sg-cdn.easy-upload.org#Anon17
+
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws#Anon18
+
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#Anon19
+
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:443?path=%2F&security=tls&encryption=none&type=ws&sni=dl1-ca-cdn.easy-upload.org#Anon20
