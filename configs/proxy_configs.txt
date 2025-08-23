@@ -1,38 +1,38 @@
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=%2F&security=tls&encryption=none&type=ws#Anon1
 
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#Anon2
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=%2F&security=tls&encryption=none&type=ws#Anon2
 
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Anon3
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#Anon3
 
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-au2-cdn.upload-center.org&fp=firefox&type=ws#Anon4
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#Anon4
 
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-ca2-cdn.upload-center.org&fp=firefox&type=ws#Anon5
+vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Anon5
 
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-de2-cdn.upload-center.org&fp=firefox&type=ws#Anon6
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-tr2-cdn.upload-center.org&fp=firefox&type=ws#Anon6
 
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-fr2-cdn.upload-center.org&fp=firefox&type=ws#Anon7
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-au3-cdn.upload-center.org&fp=firefox&type=ws#Anon7
 
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-pl2-cdn.upload-center.org&fp=firefox&type=ws#Anon8
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-ca3-cdn.upload-center.org&fp=firefox&type=ws#Anon8
 
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-sg2-cdn.upload-center.org&fp=firefox&type=ws#Anon9
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-de3-cdn.upload-center.org&fp=firefox&type=ws#Anon9
 
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-tr2-cdn.upload-center.org&fp=firefox&type=ws#Anon10
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-fr3-cdn.upload-center.org&fp=firefox&type=ws#Anon10
 
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=%2F&security=tls&encryption=none&type=ws#Anon11
+ss://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Anon11
 
-ss://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#Anon12
+ss://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl-de-cdn.upload-center.org&fp=firefox&type=ws#Anon12
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-sg2-cdn.upload-center.org&fp=firefox&type=ws#Anon13
+ss://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl-tr-cdn.upload-center.org&fp=firefox&type=ws#Anon13
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-tr2-cdn.upload-center.org&fp=firefox&type=ws#Anon14
+ss://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-au3-cdn.upload-center.org&fp=firefox&type=ws#Anon14
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-au3-cdn.upload-center.org&fp=firefox&type=ws#Anon15
+ss://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-ca3-cdn.upload-center.org&fp=firefox&type=ws#Anon15
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-ca3-cdn.upload-center.org&fp=firefox&type=ws#Anon16
+ss://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-fr3-cdn.upload-center.org&fp=firefox&type=ws#Anon16
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-de3-cdn.upload-center.org&fp=firefox&type=ws#Anon17
+ss://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=firefox&type=ws#Anon17
 
-ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-fr3-cdn.upload-center.org&fp=firefox&type=ws#Anon18
+ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl2-sg2-cdn.upload-center.org&fp=firefox&type=ws#Anon18
 
 ss://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=firefox&type=ws#Anon19
 
