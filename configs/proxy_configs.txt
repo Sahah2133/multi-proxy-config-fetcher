@@ -24,15 +24,15 @@ ss://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=%2Fsg3%2F%3F-Sha
 
 ss://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=%2Fsg3%3Fed%3D2560%2F%3Fed%3D2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Anon13
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXBNQVd5TW5NVHlBQ1NjV3A3TGlBQWxHcVhWekxVdE5Pa3pEbjVlVFpDVT06a2EwcFVNT1VJMDkrcDB5Z3JVYVRzR2tFcTQ4Rk9yMG1uRWE3RDdlYk9EUT0%3D@91.107.190.209:42214#Anon14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Anon14
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Anon15
+ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#Anon15
 
-ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#Anon16
+ss://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=%2Fhfwsxtws&security=tls&encryption=none&host=TELEGRAM-%40ShadowProxy66&type=ws#Anon16
 
-ss://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=%2Fhfwsxtws&security=tls&encryption=none&host=TELEGRAM-%40ShadowProxy66&type=ws#Anon17
+ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#Anon17
 
-ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#Anon18
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#Anon18
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#Anon19
 
