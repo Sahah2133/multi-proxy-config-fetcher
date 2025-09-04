@@ -22,13 +22,13 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJj
 
 ss://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@www.speedtest.net:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Anon12
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXBNQVd5TW5NVHlBQ1NjV3A3TGlBQWxHcVhWekxVdE5Pa3pEbjVlVFpDVT06a2Z6cGlGYkg0a1pKSjZIb1lhaC8rblpGZjZ5TVZkdUpZNHFLbGl1Z05obz0%3D@91.107.190.209:42214#Anon13
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.204.69:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon13
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#Anon14
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@165.232.118.250:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon14
 
-ss://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.204.69:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon15
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@167.99.243.241:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon15
 
-ss://e4a4438f-585b-4555-b8e3-f032def5819c@165.232.118.250:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon16
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@207.154.226.4:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon16
 
 ss://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Anon17
 
