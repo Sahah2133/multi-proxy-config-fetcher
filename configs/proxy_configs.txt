@@ -1,42 +1,42 @@
-vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Anon1
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Anon1
 
-vless://33bed48e-78ad-4bba-9dcb-77587d7a184a@ir26.drinfoo.com:905?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=speedtest.net#Anon2
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@baghdad-happynewyearche.org:443?path=%2Ftiger&security=tls&encryption=none&host=wuqpn.mark-azyadrafte.info&fp=chrome&type=ws&sni=wuqpn.mark-azyadrafte.info#Anon2
 
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Anon3
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@emma-ghorestan.info:443?path=%2Ftiger&security=tls&encryption=none&host=rseyc.christopher-azyadrafte.info&fp=chrome&type=ws&sni=rseyc.christopher-azyadrafte.info#Anon3
 
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Anon4
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Anon4
 
-vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#Anon5
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#Anon5
 
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#Anon6
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Anon6
 
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&spx=%2FTELEGRAM_JKVPN_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Anon7
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?path=%2FJCG7HcKpCWxijB2IADOUXiAjgsQ6&security=tls&alpn=http%2F1.1&encryption=none&host=plaza.ir&fp=chrome&type=ws&sni=plaza.ir#Anon7
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&encryption=none&type=grpc#Anon8
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?path=%2FJCG7HcKpCWxijB2NRTLOucUnG4RrGx&security=tls&alpn=http%2F1.1&encryption=none&host=plaza.ir&fp=chrome&type=httpupgrade&sni=plaza.ir#Anon8
 
-vless://e4a4438f-585b-4555-b8e3-f032def5819c@207.154.240.185:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon9
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?path=%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU&security=tls&alpn=http%2F1.1&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&host=plaza.ir&fp=chrome&type=xhttp&sni=plaza.ir#Anon9
 
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Anon10
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&host=tempail.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tempail.com&sid=f47f400cc96a4e#Anon10
 
-ss://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?path=%2F%40ShadowProxy66_Channel&security=&encryption=none&type=ws#Anon11
+ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss76953.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#Anon11
 
-ss://cd2e9541-3fce-4d95-9bec-919d884f911e@baghdad-happynewyearche.org:443?path=%2Ftiger&security=tls&encryption=none&host=wuqpn.mark-azyadrafte.info&fp=chrome&type=ws&sni=wuqpn.mark-azyadrafte.info#Anon12
+ss://cd2e9541-3fce-4d95-9bec-919d884f911e@mark-bezanberimtehroon.info:443?path=%2Ftiger&security=tls&encryption=none&host=qxqll.thomas-azyadrafte.info&fp=chrome&type=ws&sni=qxqll.thomas-azyadrafte.info#Anon12
 
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Anon13
+ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@185.200.190.159:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Anon13
 
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Anon14
+ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Anon14
 
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Anon15
+ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=&encryption=none&type=grpc#Anon15
 
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#Anon16
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@138.68.67.153:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon16
 
-ss://e4a4438f-585b-4555-b8e3-f032def5819c@104.248.20.136:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon17
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@159.65.120.137:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon17
 
-ss://e4a4438f-585b-4555-b8e3-f032def5819c@134.209.243.216:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon18
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@165.227.163.148:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon18
 
-ss://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.71.211:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon19
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@167.172.185.117:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon19
 
-ss://e4a4438f-585b-4555-b8e3-f032def5819c@164.92.199.171:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon20
+ss://e4a4438f-585b-4555-b8e3-f032def5819c@167.71.34.126:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Anon20
 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#Anon21
 
@@ -44,14 +44,10 @@ trojan://slch2024@185.148.105.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7S
 
 trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon23
 
-trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon24
+trojan://slch2024@185.221.160.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon24
 
-trojan://slch2024@185.174.138.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon25
+trojan://slch2024@199.68.156.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon25
 
-trojan://slch2024@185.221.160.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon26
+trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon26
 
-trojan://slch2024@199.68.156.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon27
-
-trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon28
-
-trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon29
+trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon27
