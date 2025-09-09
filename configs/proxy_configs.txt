@@ -14,10 +14,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusab
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#Anon8
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aklGZzU5MWNyQVdpYmI5cDNFL3Q5V2NzUjFxWjhsalVyMC85c0RhUmZ2MD06eWM4MnlSZWVQTmtvcWxIaTdOQUdkclRkSFRsRWJNN0h5TUJuWGRCVG0xST0%3D@91.107.134.230:50796#Anon9
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#Anon9
 
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#Anon10
+trojan://slch2024@188.164.248.87:2096?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon10
 
-trojan://slch2024@188.164.248.87:2096?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon11
-
-trojan://slch2024@195.26.229.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon12
+trojan://slch2024@195.26.229.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Anon11
