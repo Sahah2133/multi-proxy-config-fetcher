@@ -1,8 +1,8 @@
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443/?type=ws&encryption=none&flow=&path=%2Fwsss&security=tls&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Anon1
 
-vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275/?type=ws&encryption=none&flow=&host=ula347.tiri-viri.com&path=%2F&security=tls&sni=ula347.tiri-viri.com&fp=chrome#Anon2
+vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=%2Fwsss&security=tls&encryption=none&host=bLAZE-GErmanY-246.MEtIKaPps.COm&fp=chrome&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Anon2
 
-vless://9102e28f-e7a1-44dd-bdb7-44e77d9c3def@45.205.29.218:64767?mode=auto&path=9102e28f-e7a1-44dd-bdb7-44e77d9c3def-xh&security=reality&encryption=mlkem768x25519plus.native.0rtt.ntJ2rSMNxCZw4Rma2IXBCIE82DFt5DycxWDOUDFFbyKbsCgjPIG3NlNT1FeiPNh1NNMrPIGJolskiFt5f8t5hTpG7ENqXsCKG9AJ9AKzeTK8vKlKJ5CKyIQ2h2iMk9lL7Ie8zgs5KPR84teLxBx3gfRcYVLFipjIZ7tXO2XF0MOLDRd9hUx6lxsr2LCBSvg6GleNoHVETpaan9jPh0A_Zmp3t_MPtMQVeuOrVOmeoChzFaEA8eFhprrChDqNOAU8GzXEW4Qq6kqRXeZFd9sVRdEOnEZ5pLZTw1iTaoCNYWeGThqoSFMzOfZWocNDQSnAxDQDcJS-cdwqAGQoIBFP6Uos47dYDMds8KdCFOl591aT65tZdWgqxQZ5FsG_daGo4MCwIKinteplXUKTE3KdERdljjGAwPtuMle_QrjCKCnKcjE329LE-hEVs0MAfcKqB-CqIDHKeheWskW14SrNFMspqNcVBPUhcUp6qKt6a2iTqyqFoyQYeobGP1trZFcP4TmVcEsBJzCHkeFKGSIwiYEu3rIIYjU_gHrCcVQ-7mxFgwCdN6iLy-cdkyBCfSK3uhEmTzS3wOLNa5tcXTDK1xJDnPey1mt9JZaXHSrAk6GTS5LN4UIZePeR19M0VLOi76F_XrQhoOswu4gOBZMoCEKJPKJXIMKfO4JKFUY6xkCbEtiLJ5FjjWZdRYbDtXuK8TOuSMpwzkk9P4FOgvS1KbKWG8Se6jhxbhEOBHPKqVZR_TmnxScW1_aisVG-w5mLwIS58mlOgcyldiRhHkyo0hYCvRInC6NfJvFD7FmJJmkxgbTFfHA43zG9yWG23ABUoYtzjDtapwtCTUk1YsjJCsVwG9dOQKJx1-qZv_mw80I2YSulXJkKuYeOpPCmBBQZRnMCbDLGxKNTVGCGePh0ZOBBjiCCq6GYW4U0reo8TnqMVsutzGqK5UFFyFVQtnE8O5POFcZE9OpwDiO4waWfqelL6qdk9oHE_ZpveRsGxdQyxQhYn9SwTPqauOAapcIHliKhypRfT8VSJbu6fzxu-1EfIGheP5BmV9lDM2O_mDVTzbDFTLY8qEB-tQZsh1wxnhKQCbE4SfARGNx4-3OF9OSXQnCJToSh9_CijbWPozYq_NdKN4kT_hUchHNBO8ES5VI97jkg6AdbJrkjolhdqld261eR4OYnIBbGNhwn7syhuQZV2rvIBipXHqWjeNu_JkZXjJcxRlDErfqdGTimRmIHA8WZJduK2jll4mh5ddkCQ7S-G9hWA6ww0-s5YdigIvsQXgc63fNiChtjLpt2H5N1qzFbiOVIs8mVpKgZxknEjsl35zwkoNRvHawjs_oYesBhOBdoPucS_-F_a0lti1B9QmSOeWt3oeRScTQGNwmJyVA46OaWa7BXjJExaBaCh-kzHZtDgOgsE3Jdhuq4kCqLEXkOxlwdlrNlInqKqtGkWxWQQxKpvVCyJdBp9bJTPbaq2qVDkxIcIstJBqFH7-i_8GCDX-Fc0kmtghhIbGtI3aQ-MBImXHeVjEJ9S0R6fBOJT1zdQzlE5vRONAkLB3C94bR-zlGMuBNppIHGDAY&pbk=H-BUr5NM7Kz7urYuth2gUDIGcwquGBveGSIiht_h7Ds&fp=chrome&type=xhttp&flow=xtls-rprx-vision&sni=apple.com&sid=1fa16bff#Anon3
+vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275/?type=ws&encryption=none&flow=&host=ula347.tiri-viri.com&path=%2F&security=tls&sni=ula347.tiri-viri.com&fp=chrome#Anon3
 
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&fp=chrome&security=reality&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&sid=81e0b568#Anon4
 
@@ -30,15 +30,15 @@ vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 ss://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Anon16
 
-ss://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=%2Fwsss&security=tls&encryption=none&host=bLAZE-GErmanY-246.MEtIKaPps.COm&fp=chrome&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Anon17
+ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#Anon17
 
-ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#Anon18
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#Anon18
 
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#Anon19
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=&encryption=none&type=grpc#Anon19
 
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=&encryption=none&type=grpc#Anon20
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#Anon20
 
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#Anon21
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?security=&encryption=none&type=grpc#Anon21
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=&encryption=none&type=grpc#Anon22
 
