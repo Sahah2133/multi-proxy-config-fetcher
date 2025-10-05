@@ -1,11 +1,21 @@
-vless://0c0537c3-f0fb-40e6-bd59-f5038e1855ed@162.159.43.92:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=juzi.634676.xyz&type=ws&sni=juzi.634676.xyz#Anon1
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@5.181.2.51:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#Anon1
 
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@199.34.229.32:2096?path=%2Fsnippetsfp&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#Anon2
+vless://2ea7b5fd-a27c-4d79-b321-bf927be50090@82.24.64.135:31129?security=reality&encryption=none&pbk=Y_m8a25ICfj12RLD4MO9SGxWGEpc904cyMpszJ2uaw4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#Anon2
 
-vless://ca2ae03c-75a2-4956-b86c-8784484aa263@95.128.196.217:3232?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Anon3
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Anon3
 
-vless://dcf1630c-f0bd-4d81-a128-4865df35e757@217.60.241.139:1080?security=&encryption=none&headerType=none&type=tcp#Anon4
+vless://81748ff9-d467-4d1c-a2bf-17e890e694fe@82.24.64.135:31179?security=reality&encryption=none&pbk=2jmEGBx_0GVsnnxqT3_wcXNkcDfhCMERAH5yfHkHnSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Anon4
 
-vless://dcf1630c-f0bd-4d81-a128-4865df35e757@q4214fa.novintec99.ir:45655?security=reality&encryption=none&pbk=BZMabNUxkVRkm_K22kLZruvXlPBfGlHHdazco4cvvxo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#Anon5
+vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#Anon5
 
-vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTkzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTA1MiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+Ht/Cfh7oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#Anon6
+vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&security=tls&encryption=none&host=vless.keepfuck.me&fp=chrome&type=ws&sni=vless.keepfuck.me#Anon6
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?security=&encryption=none&type=grpc#Anon7
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&type=grpc#Anon8
+
+vless://e191ac99-e071-4e36-9a01-107eaf26a780@188.244.122.253:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=krill.xfan01.sbs&type=ws&sni=krill.xfan01.sbs#Anon9
+
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#Anon10
+
+ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F%3F%40ShadowProxy66&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#Anon11
