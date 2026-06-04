@@ -1,11 +1,5 @@
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#Anon1
+trojan://humanity@104.16.174.44:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Anon1
 
-vless://501e461e-02f6-4293-8334-d6ba7c076dd9@104.18.4.130:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#Anon2
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Anon2
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Anon3
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#Anon4
-
-vless://8d84c739-d26c-449f-a58b-d0674169504d@104.18.16.56:2083?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cds.amcazador.sbs#Anon5
-
-vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?path=%2F&security=none&encryption=none&host=DOFF.mehrsazi.ir&type=ws#Anon6
+trojan://humanity@162.159.193.22:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Anon3
