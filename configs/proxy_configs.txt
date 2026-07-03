@@ -1,39 +1,23 @@
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:2087?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=HlEr2Pz1.maroVentA.infO&fp=firefox&type=xhttp&allowInsecure=0&sni=HlEr2Pz1.maroVentA.infO#Anon1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@156.154.245.83:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Anon1
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:2096?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=Ori81JnB.BigILIjorDaN.InFo&fp=firefox&type=xhttp&allowInsecure=0&sni=Ori81JnB.BigILIjorDaN.InFo#Anon2
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Anon2
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:2096?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=YsbW8la9.trIVanoRA.iNFo&fp=firefox&type=xhttp&allowInsecure=0&sni=YsbW8la9.trIVanoRA.iNFo#Anon3
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.101.238.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Anon3
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:443?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=6pEvO6wT.bigILijoRDAN.INfo&fp=firefox&type=xhttp&allowInsecure=0&sni=6pEvO6wT.bigILijoRDAN.INfo#Anon4
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Anon4
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:443?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=w8sDmPoC.tRivanorA.inFo&fp=firefox&type=xhttp&allowInsecure=0&sni=w8sDmPoC.tRivanorA.inFo#Anon5
+vless://3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2@ansooyefilter-channel.up.railway.app:443?path=%2Fws%2F3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ansooyefilter-channel.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter-channel.up.railway.app#Anon5
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:8443?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=GP3hqWIM.paNGosAnBLaDe.InfO&fp=firefox&type=xhttp&allowInsecure=0&sni=GP3hqWIM.paNGosAnBLaDe.InfO#Anon6
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Anon6
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:8443?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=WjfmeBzR.TRIvAnoRA.iNfO&fp=firefox&type=xhttp&allowInsecure=0&sni=WjfmeBzR.TRIvAnoRA.iNfO#Anon7
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Anon7
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:8443?path=%2Fadycon&security=tls&encryption=none&insecure=0&host=cHzoZ6DR.biGILiJOrDAN.InFo&fp=firefox&type=xhttp&allowInsecure=0&sni=cHzoZ6DR.biGILiJOrDAN.InFo#Anon8
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Anon8
 
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Anon9
+vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=%2Fsalsaserver&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#Anon9
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Anon10
+vless://ea9b76e2-3b93-4f6f-9fd5-441082de0a1c@52.73.150.215:2053?security=reality&encryption=none&pbk=dV6O_qJsz93umq7BzAqvlnM8rEwaCFBrPlYSSkmCwQk&headerType=none&fp=chrome&spx=%2Fwkx6WqRrqjardPB&type=tcp&sni=www.intel.com&sid=2bfc17da341dcf#Anon10
 
-ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@156.154.245.83:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Anon11
+ss://147182ba-946d-9ef2-a209-dbfcccec9231@rvg-production-dfeb.up.railway.app:443?path=%2Fws%2F147182ba-946d-9ef2-a209-dbfcccec9231&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-dfeb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-dfeb.up.railway.app#Anon11
 
-ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Anon12
-
-ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.101.238.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Anon13
-
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Anon14
-
-ss://3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2@ansooyefilter-channel.up.railway.app:443?path=%2Fws%2F3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ansooyefilter-channel.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter-channel.up.railway.app#Anon15
-
-ss://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Anon16
-
-ss://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Anon17
-
-ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Anon18
-
-ss://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=%2Fsalsaserver&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#Anon19
-
-ss://ea9b76e2-3b93-4f6f-9fd5-441082de0a1c@52.73.150.215:2053?security=reality&encryption=none&pbk=dV6O_qJsz93umq7BzAqvlnM8rEwaCFBrPlYSSkmCwQk&headerType=none&fp=chrome&spx=%2Fwkx6WqRrqjardPB&type=tcp&sni=www.intel.com&sid=2bfc17da341dcf#Anon20
+ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Anon12
